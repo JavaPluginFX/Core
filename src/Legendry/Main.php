@@ -32,11 +32,11 @@ class Main extends PluginBase {
                              }
                     break;
                     
-                    case "kit":
+                    case "sword":
                             if ($sender instanceof Player) {
                                           $enchantment = Enchantment::getEnchantment(0);
                                           $enchantInstance = new EnchantmentInstance($enchantment, 4);
-                                          $sword = Item::get(267, 0, 1);
+                                          $sword = Item::get(276, 0, 1);
                                           $sword->addEnchantment($enchantInstance);
                                           $sender->getInventory()->addItem($sword);
                              }
