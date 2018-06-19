@@ -1,0 +1,13 @@
+name: Core
+main: Legendry\Main
+version: 1.0.0-BETA
+api: 3.0.0-ALPHA12
+author: LegendryDileo
+commands:
+        heal:
+            description: Füllt deine Herzen wieder auf.
+        feed:
+            description: Füllt deine Essen Leiste wieder auf.
+        kit:
+            description: Test Command
+
