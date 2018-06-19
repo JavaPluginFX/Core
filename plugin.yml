@@ -8,6 +8,6 @@ commands:
             description: Füllt deine Herzen wieder auf.
         feed:
             description: Füllt deine Essen Leiste wieder auf.
-        kit:
-            description: Test Command
+        sword:
+            description: Kostenloses Schwert
 
