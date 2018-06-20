@@ -6,10 +6,8 @@ author: LegendryDileo
 commands:
         heal:
             description: Füllt deine Herzen wieder auf.
-              permission: use.heal
         feed:
             description: Füllt deine Essen Leiste wieder auf.
-              permission: use.feed
         sword:
             description: Kostenloses Schwert
 
